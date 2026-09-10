@@ -1,7 +1,7 @@
 {
   "name": "Employee Attendance",
   "short_name": "Attendance",
-  "description": "Clock in and out with location verification.",
+  "description": "Check in and out with location verification.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
