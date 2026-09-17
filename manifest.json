@@ -1,6 +1,6 @@
 {
   "name": "Arai Team Attendance",
-  "short_name": "Arai Att.",
+  "short_name": "Arai Attendance",
   "description": "Clock in and out with location verification.",
   "start_url": "./index.html",
   "scope": "./",
